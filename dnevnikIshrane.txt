@@ -1,0 +1,17 @@
+Obrok              Kalorije
+----------------------------
+Kit kat            422
+Coca cola          212
+Burrito            1560
+---------------------------
+Ukupno uneto:      2194 kcal
+---------------------------
+Kalorijski cilj: 1600 kcal
+Trenutna tezina: 102.7 kg
+Ocekivana tezina za 7 dana: 102.4 kg
+---------------------------
+Mon Jul 20 22:27:06 2020
+
+----------------------------
+Obrok              Kalorije
+----------------------------

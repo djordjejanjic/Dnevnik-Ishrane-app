@@ -1,0 +1,18 @@
+﻿  Source.c
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(97): warning C4013: 'izracunajUkupno' undefined; assuming extern returning int
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(99): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(99): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(111): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(111): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(113): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(113): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(168): warning C4033: 'ukupnoCeoDan' must return a value
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(195): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(221): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(221): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(233): warning C4098: 'prikaziTabelu': 'void' function returning a value
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(295): warning C4033: 'fajlZaKilazuIKalorijskiCilj' must return a value
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(186): warning C4715: 'ukupnoCeoDan': not all control paths return a value
+c:\users\djord\documents\visual studio 2017\projects\dnevnikishrane\dnevnikishrane\source.c(307): warning C4715: 'fajlZaKilazuIKalorijskiCilj': not all control paths return a value
+  DnevnikIshrane.vcxproj -> C:\Users\djord\Documents\Visual Studio 2017\Projects\DnevnikIshrane\Debug\DnevnikIshrane.exe
+  DnevnikIshrane.vcxproj -> C:\Users\djord\Documents\Visual Studio 2017\Projects\DnevnikIshrane\Debug\DnevnikIshrane.pdb (Partial PDB)
